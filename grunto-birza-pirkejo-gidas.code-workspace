@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../valstybiuTestas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "grunto-birza-pirkejo-gidas"
+	}
+}
