@@ -162,3 +162,24 @@
   margin: auto;
 
 }
+.detales {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  margin: auto;
+  width: 300px;
+  justify-content: flex-start;
+
+}
+
+.text {
+  width: 300px;
+  text-align: justify;
+
+  margin: 10px;
+}
+.foot {
+  justify-content: flex-end;
+}
